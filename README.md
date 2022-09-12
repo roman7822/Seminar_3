@@ -6,3 +6,5 @@
 * рабочее :worried:
 * осеннее :umbrella:
 * сонливое :sleeping:
+* нейтральное :neutral_face:
+
